@@ -74,7 +74,7 @@ const Mobile = () => {
                 hover:-translate-y-1
               "
             >
-              <div className="mb-4 h-9 w-9 rounded-lg bg-purple-500/15 
+              <div className="mb-4 h-10 w-10 rounded-full bg-purple-500/15 
                               flex items-center justify-center 
                               text-purple-400 font-semibold">
                 {index + 1}
